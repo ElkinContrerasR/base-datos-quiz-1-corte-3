@@ -1,5 +1,9 @@
 SELECT 
-    CONCAT(p.first_name, '', p.middle_name, '',p.last_name, '', )
+    CONCAT(p.first_name, '', p.middle_name, '',p.last_name, '',p.second_last_name )AS nombreCompleto
+    u.username AS usuario,
+    r.name AS rol,
+    m.name AS modulo,
+    v.name AS vista
 FROM
     person p
 INNER JOIN user u ON p.id = u.person_id
