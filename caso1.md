@@ -35,7 +35,7 @@
 
 
 
-![Consulta completa](img/completa.png)
+
 ![Consulta completa](img/Capturadepantalla.png)
 
 autor: Elkin Stiven Contreras Rojas
