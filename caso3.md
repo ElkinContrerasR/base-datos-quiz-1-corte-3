@@ -24,4 +24,4 @@
 
 
 
-![Consulta completa](img/caso3.png)
+![Consulta completa](img/Caso3.png)
