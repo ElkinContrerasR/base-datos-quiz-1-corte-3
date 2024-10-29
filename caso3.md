@@ -1,4 +1,4 @@
-# Ejercicio 1
+# Ejercicio 3
 ### Consulta
     SELECT 
         p.first_name AS person,
